@@ -1,0 +1,60 @@
+1 保存学习资料
+
+无人驾驶汽车系统入门,下载保存
+https://blog.csdn.net/AdamShan/article/details/78733302
+ 
+车道线检测之lanelines-detection
+https://blog.csdn.net/u010665216/article/details/80152458
+1 天
+2 ROS基础学习  ，初级，中级，高级
+  1周--2018.12.24
+3 实践学习资料
+  2周---2019.1.6
+ 
+4 移动小车搭建与调试
+  1个月  
+  2019.1.30
+5 AutoWare学习与实践
+  环境安装   
+     PC安装实践   2周 
+     TX2安装，实践  1周
+                  2019.1.30 
+5 灰点相机购买 ok, fl2-08s2c，咸鱼 420 RMB
+  镜头购买 ,选型
+6 购买激光雷达，2019.1.6日开始，如果内用TX2或者PC学习好，就申请购买
+7 购买PX2，2019.2.30开始，如果移动小车测试成功，就申请购买PX2  
+2019年3月底
+8 学习PX2  nvidia drive 1个月
+          基础软件      1个月
+9 搭建车辆控制模型
+  简单的模型            1个月-  2019.6
+10 上车实际调试    2019.6~2019.8
+   can线接口设计1个月
+   实际调试   1个月
+  
+11 深度学习---实际车辆调试
+  2个月
+   -----2019.9月
+   
+   
+   
+   可以参考的一些内容如：
+
+1 RC小车：http://blog.csdn.net/ZhangRelay/article/details/71749723
+
+2 自动驾驶汽车仿真：http://blog.csdn.net/ZhangRelay/article/details/74534069
+
+3 从零开始学习无人驾驶技术：https://www.leiphone.com/news/201706/RuoKaDSTmd1dClUV.html
+
+4 comma.ai：https://comma.ai/
+
+5 openpilot：https://github.com/commaai/openpilot
+
+6 apollo.auto：http://apollo.auto/index_cn.html
+
+7 apolloauto：https://github.com/apolloauto
+--------------------- 
+作者：zhangrelay 
+来源：CSDN 
+原文：https://blog.csdn.net/zhangrelay/article/details/77324002 
+版权声明：本文为博主原创文章，转载请附上博文链接！
